@@ -8,5 +8,7 @@ package com.yang.test;
  * @fuction: about the role of class.
  */
 public class TestGit {
+    public static void main(String[] args) {
 
+    }
 }
